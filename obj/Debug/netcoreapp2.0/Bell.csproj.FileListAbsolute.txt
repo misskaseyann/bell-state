@@ -1,0 +1,11 @@
+/Users/kaseystowell/Documents/workspace/quantum/Bell/obj/Debug/netcoreapp2.0/Bell.csprojAssemblyReference.cache
+/Users/kaseystowell/Documents/workspace/quantum/Bell/obj/Debug/netcoreapp2.0/Bell.csproj.CoreCompileInputs.cache
+/Users/kaseystowell/Documents/workspace/quantum/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfoInputs.cache
+/Users/kaseystowell/Documents/workspace/quantum/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfo.cs
+/Users/kaseystowell/Documents/workspace/quantum/Bell/bin/Debug/netcoreapp2.0/Bell.deps.json
+/Users/kaseystowell/Documents/workspace/quantum/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.json
+/Users/kaseystowell/Documents/workspace/quantum/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.dev.json
+/Users/kaseystowell/Documents/workspace/quantum/Bell/bin/Debug/netcoreapp2.0/Bell.dll
+/Users/kaseystowell/Documents/workspace/quantum/Bell/bin/Debug/netcoreapp2.0/Bell.pdb
+/Users/kaseystowell/Documents/workspace/quantum/Bell/obj/Debug/netcoreapp2.0/Bell.dll
+/Users/kaseystowell/Documents/workspace/quantum/Bell/obj/Debug/netcoreapp2.0/Bell.pdb
